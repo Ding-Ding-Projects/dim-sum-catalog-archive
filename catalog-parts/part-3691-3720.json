@@ -1,0 +1,971 @@
+[
+  {
+    "id": "hk-dish-3691",
+    "slug": "hong-kong-matcha-cantaloupe-jelly-3691",
+    "name": {
+      "en": "Hong Kong Matcha cantaloupe jelly 3691",
+      "zhHant": "香港抹茶cantaloupejelly3691"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha cantaloupe jelly dim sum.",
+      "yue": "創作抹茶cantaloupejelly。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "cantaloupe",
+      "jelly"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3691-matcha-cantaloupe-jelly.png",
+      "alt": {
+        "en": "Matcha cantaloupe jelly dim sum.",
+        "yue": "抹茶cantaloupejelly點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha cantaloupe jelly, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3692",
+    "slug": "hong-kong-matcha-tamarind-mochi-3692",
+    "name": {
+      "en": "Hong Kong Matcha tamarind mochi 3692",
+      "zhHant": "香港抹茶tamarindmochi3692"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha tamarind mochi dim sum.",
+      "yue": "創作抹茶tamarindmochi。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "tamarind",
+      "mochi"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3692-matcha-tamarind-mochi.png",
+      "alt": {
+        "en": "Matcha tamarind mochi dim sum.",
+        "yue": "抹茶tamarindmochi點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha tamarind mochi, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3693",
+    "slug": "hong-kong-matcha-pecan-pudding-3693",
+    "name": {
+      "en": "Hong Kong Matcha pecan pudding 3693",
+      "zhHant": "香港抹茶pecanpudding3693"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha pecan pudding dim sum.",
+      "yue": "創作抹茶pecanpudding。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "pecan",
+      "pudding"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3693-matcha-pecan-pudding.png",
+      "alt": {
+        "en": "Matcha pecan pudding dim sum.",
+        "yue": "抹茶pecanpudding點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha pecan pudding, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3694",
+    "slug": "hong-kong-matcha-violet-puff-3694",
+    "name": {
+      "en": "Hong Kong Matcha violet puff 3694",
+      "zhHant": "香港抹茶violetpuff3694"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha violet puff dim sum.",
+      "yue": "創作抹茶violetpuff。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "violet",
+      "puff"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3694-matcha-violet-puff.png",
+      "alt": {
+        "en": "Matcha violet puff dim sum.",
+        "yue": "抹茶violetpuff點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha violet puff, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3695",
+    "slug": "hong-kong-matcha-raspberry-cake-3695",
+    "name": {
+      "en": "Hong Kong Matcha raspberry cake 3695",
+      "zhHant": "香港抹茶raspberrycake3695"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha raspberry cake dim sum.",
+      "yue": "創作抹茶raspberrycake。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "raspberry",
+      "cake"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3695-matcha-raspberry-cake.png",
+      "alt": {
+        "en": "Matcha raspberry cake dim sum.",
+        "yue": "抹茶raspberrycake點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha raspberry cake, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3696",
+    "slug": "hong-kong-matcha-coconut-mousse-3696",
+    "name": {
+      "en": "Hong Kong Matcha coconut mousse 3696",
+      "zhHant": "香港抹茶coconutmousse3696"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha coconut mousse dim sum.",
+      "yue": "創作抹茶coconutmousse。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "coconut",
+      "mousse"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3696-matcha-coconut-mousse.png",
+      "alt": {
+        "en": "Matcha coconut mousse dim sum.",
+        "yue": "抹茶coconutmousse點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha coconut mousse, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3697",
+    "slug": "hong-kong-matcha-rambutan-roll-3697",
+    "name": {
+      "en": "Hong Kong Matcha rambutan roll 3697",
+      "zhHant": "香港抹茶rambutanroll3697"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha rambutan roll dim sum.",
+      "yue": "創作抹茶rambutanroll。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "rambutan",
+      "roll"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3697-matcha-rambutan-roll.png",
+      "alt": {
+        "en": "Matcha rambutan roll dim sum.",
+        "yue": "抹茶rambutanroll點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha rambutan roll, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3698",
+    "slug": "hong-kong-matcha-black-sesame-jelly-3698",
+    "name": {
+      "en": "Hong Kong Matcha black sesame jelly 3698",
+      "zhHant": "香港抹茶black sesamejelly3698"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha black sesame jelly dim sum.",
+      "yue": "創作抹茶black sesamejelly。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "black sesame",
+      "jelly"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3698-matcha-black-sesame-jelly.png",
+      "alt": {
+        "en": "Matcha black sesame jelly dim sum.",
+        "yue": "抹茶black sesamejelly點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha black sesame jelly, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3699",
+    "slug": "hong-kong-matcha-guava-cake-3699",
+    "name": {
+      "en": "Hong Kong Matcha guava cake 3699",
+      "zhHant": "香港抹茶guavacake3699"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha guava cake dim sum.",
+      "yue": "創作抹茶guavacake。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "guava",
+      "cake"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3699-matcha-guava-cake.png",
+      "alt": {
+        "en": "Matcha guava cake dim sum.",
+        "yue": "抹茶guavacake點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha guava cake, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3700",
+    "slug": "hong-kong-matcha-chocolate-orange bao-3700",
+    "name": {
+      "en": "Hong Kong Matcha chocolate orange bao 3700",
+      "zhHant": "香港抹茶chocolateorange bao3700"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha chocolate orange bao dim sum with visible chocolate.",
+      "yue": "創作抹茶chocolateorange bao，清楚見到黑朱古力。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "chocolate",
+      "orange bao",
+      "dark chocolate"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "image": {
+      "path": "images/hk-dish-3700-matcha-chocolate-orange bao.png",
+      "alt": {
+        "en": "Matcha chocolate orange bao dim sum with visible chocolate.",
+        "yue": "抹茶chocolateorange bao點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha chocolate orange bao with obvious dark chocolate, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3701",
+    "slug": "hong-kong-matcha-taro-mochi-3701",
+    "name": {
+      "en": "Hong Kong Matcha taro mochi 3701",
+      "zhHant": "香港抹茶taromochi3701"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha taro mochi dim sum.",
+      "yue": "創作抹茶taromochi。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "taro",
+      "mochi"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3701-matcha-taro-mochi.png",
+      "alt": {
+        "en": "Matcha taro mochi dim sum.",
+        "yue": "抹茶taromochi點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha taro mochi, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3702",
+    "slug": "hong-kong-matcha-almond-puff-3702",
+    "name": {
+      "en": "Hong Kong Matcha almond puff 3702",
+      "zhHant": "香港抹茶almondpuff3702"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha almond puff dim sum.",
+      "yue": "創作抹茶almondpuff。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "almond",
+      "puff"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3702-matcha-almond-puff.png",
+      "alt": {
+        "en": "Matcha almond puff dim sum.",
+        "yue": "抹茶almondpuff點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha almond puff, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3703",
+    "slug": "hong-kong-matcha-rose-pudding-3703",
+    "name": {
+      "en": "Hong Kong Matcha rose pudding 3703",
+      "zhHant": "香港抹茶rosepudding3703"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha rose pudding dim sum.",
+      "yue": "創作抹茶rosepudding。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "rose",
+      "pudding"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3703-matcha-rose-pudding.png",
+      "alt": {
+        "en": "Matcha rose pudding dim sum.",
+        "yue": "抹茶rosepudding點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha rose pudding, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3704",
+    "slug": "hong-kong-matcha-lychee-jelly-3704",
+    "name": {
+      "en": "Hong Kong Matcha lychee jelly 3704",
+      "zhHant": "香港抹茶lycheejelly3704"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha lychee jelly dim sum.",
+      "yue": "創作抹茶lycheejelly。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "lychee",
+      "jelly"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3704-matcha-lychee-jelly.png",
+      "alt": {
+        "en": "Matcha lychee jelly dim sum.",
+        "yue": "抹茶lycheejelly點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha lychee jelly, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3705",
+    "slug": "hong-kong-matcha-pear-cake-3705",
+    "name": {
+      "en": "Hong Kong Matcha pear cake 3705",
+      "zhHant": "香港抹茶pearcake3705"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha pear cake dim sum.",
+      "yue": "創作抹茶pearcake。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "pear",
+      "cake"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3705-matcha-pear-cake.png",
+      "alt": {
+        "en": "Matcha pear cake dim sum.",
+        "yue": "抹茶pearcake點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha pear cake, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3706",
+    "slug": "hong-kong-matcha-pineapple-custard-3706",
+    "name": {
+      "en": "Hong Kong Matcha pineapple custard 3706",
+      "zhHant": "香港抹茶pineapplecustard3706"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha pineapple custard dim sum.",
+      "yue": "創作抹茶pineapplecustard。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "pineapple",
+      "custard"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3706-matcha-pineapple-custard.png",
+      "alt": {
+        "en": "Matcha pineapple custard dim sum.",
+        "yue": "抹茶pineapplecustard點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha pineapple custard, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3707",
+    "slug": "hong-kong-matcha-chestnut-mousse-3707",
+    "name": {
+      "en": "Hong Kong Matcha chestnut mousse 3707",
+      "zhHant": "香港抹茶chestnutmousse3707"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha chestnut mousse dim sum.",
+      "yue": "創作抹茶chestnutmousse。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "chestnut",
+      "mousse"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3707-matcha-chestnut-mousse.png",
+      "alt": {
+        "en": "Matcha chestnut mousse dim sum.",
+        "yue": "抹茶chestnutmousse點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha chestnut mousse, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3708",
+    "slug": "hong-kong-matcha-cocoa-roll-3708",
+    "name": {
+      "en": "Hong Kong Matcha cocoa roll 3708",
+      "zhHant": "香港抹茶cocoaroll3708"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha cocoa roll dim sum.",
+      "yue": "創作抹茶cocoaroll。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "cocoa",
+      "roll"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3708-matcha-cocoa-roll.png",
+      "alt": {
+        "en": "Matcha cocoa roll dim sum.",
+        "yue": "抹茶cocoaroll點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha cocoa roll, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3709",
+    "slug": "hong-kong-matcha-pomelo-puff-3709",
+    "name": {
+      "en": "Hong Kong Matcha pomelo puff 3709",
+      "zhHant": "香港抹茶pomelopuff3709"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha pomelo puff dim sum.",
+      "yue": "創作抹茶pomelopuff。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "pomelo",
+      "puff"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3709-matcha-pomelo-puff.png",
+      "alt": {
+        "en": "Matcha pomelo puff dim sum.",
+        "yue": "抹茶pomelopuff點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha pomelo puff, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3710",
+    "slug": "hong-kong-matcha-chocolate-fig dumpling-3710",
+    "name": {
+      "en": "Hong Kong Matcha chocolate fig dumpling 3710",
+      "zhHant": "香港抹茶chocolatefig dumpling3710"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha chocolate fig dumpling dim sum with visible chocolate.",
+      "yue": "創作抹茶chocolatefig dumpling，清楚見到黑朱古力。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "chocolate",
+      "fig dumpling",
+      "dark chocolate"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "image": {
+      "path": "images/hk-dish-3710-matcha-chocolate-fig dumpling.png",
+      "alt": {
+        "en": "Matcha chocolate fig dumpling dim sum with visible chocolate.",
+        "yue": "抹茶chocolatefig dumpling點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha chocolate fig dumpling with obvious dark chocolate, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3711",
+    "slug": "hong-kong-matcha-fig-jelly-3711",
+    "name": {
+      "en": "Hong Kong Matcha fig jelly 3711",
+      "zhHant": "香港抹茶figjelly3711"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha fig jelly dim sum.",
+      "yue": "創作抹茶figjelly。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "fig",
+      "jelly"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3711-matcha-fig-jelly.png",
+      "alt": {
+        "en": "Matcha fig jelly dim sum.",
+        "yue": "抹茶figjelly點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha fig jelly, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3712",
+    "slug": "hong-kong-matcha-cashew-mochi-3712",
+    "name": {
+      "en": "Hong Kong Matcha cashew mochi 3712",
+      "zhHant": "香港抹茶cashewmochi3712"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha cashew mochi dim sum.",
+      "yue": "創作抹茶cashewmochi。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "cashew",
+      "mochi"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3712-matcha-cashew-mochi.png",
+      "alt": {
+        "en": "Matcha cashew mochi dim sum.",
+        "yue": "抹茶cashewmochi點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha cashew mochi, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3713",
+    "slug": "hong-kong-matcha-mango-pudding-3713",
+    "name": {
+      "en": "Hong Kong Matcha mango pudding 3713",
+      "zhHant": "香港抹茶mangopudding3713"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha mango pudding dim sum.",
+      "yue": "創作抹茶mangopudding。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "mango",
+      "pudding"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3713-matcha-mango-pudding.png",
+      "alt": {
+        "en": "Matcha mango pudding dim sum.",
+        "yue": "抹茶mangopudding點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha mango pudding, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3714",
+    "slug": "hong-kong-matcha-ginger-cake-3714",
+    "name": {
+      "en": "Hong Kong Matcha ginger cake 3714",
+      "zhHant": "香港抹茶gingercake3714"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha ginger cake dim sum.",
+      "yue": "創作抹茶gingercake。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "ginger",
+      "cake"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3714-matcha-ginger-cake.png",
+      "alt": {
+        "en": "Matcha ginger cake dim sum.",
+        "yue": "抹茶gingercake點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha ginger cake, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3715",
+    "slug": "hong-kong-matcha-persimmon-jelly-3715",
+    "name": {
+      "en": "Hong Kong Matcha persimmon jelly 3715",
+      "zhHant": "香港抹茶persimmonjelly3715"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha persimmon jelly dim sum.",
+      "yue": "創作抹茶persimmonjelly。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "persimmon",
+      "jelly"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3715-matcha-persimmon-jelly.png",
+      "alt": {
+        "en": "Matcha persimmon jelly dim sum.",
+        "yue": "抹茶persimmonjelly點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha persimmon jelly, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3716",
+    "slug": "hong-kong-matcha-plum-roll-3716",
+    "name": {
+      "en": "Hong Kong Matcha plum roll 3716",
+      "zhHant": "香港抹茶plumroll3716"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha plum roll dim sum.",
+      "yue": "創作抹茶plumroll。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "plum",
+      "roll"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3716-matcha-plum-roll.png",
+      "alt": {
+        "en": "Matcha plum roll dim sum.",
+        "yue": "抹茶plumroll點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha plum roll, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3717",
+    "slug": "hong-kong-matcha-elderflower-puff-3717",
+    "name": {
+      "en": "Hong Kong Matcha elderflower puff 3717",
+      "zhHant": "香港抹茶elderflowerpuff3717"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha elderflower puff dim sum.",
+      "yue": "創作抹茶elderflowerpuff。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "elderflower",
+      "puff"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3717-matcha-elderflower-puff.png",
+      "alt": {
+        "en": "Matcha elderflower puff dim sum.",
+        "yue": "抹茶elderflowerpuff點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha elderflower puff, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3718",
+    "slug": "hong-kong-matcha-walnut-mousse-3718",
+    "name": {
+      "en": "Hong Kong Matcha walnut mousse 3718",
+      "zhHant": "香港抹茶walnutmousse3718"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha walnut mousse dim sum.",
+      "yue": "創作抹茶walnutmousse。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "walnut",
+      "mousse"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3718-matcha-walnut-mousse.png",
+      "alt": {
+        "en": "Matcha walnut mousse dim sum.",
+        "yue": "抹茶walnutmousse點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha walnut mousse, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3719",
+    "slug": "hong-kong-matcha-starfruit-cake-3719",
+    "name": {
+      "en": "Hong Kong Matcha starfruit cake 3719",
+      "zhHant": "香港抹茶starfruitcake3719"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha starfruit cake dim sum.",
+      "yue": "創作抹茶starfruitcake。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "starfruit",
+      "cake"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3719-matcha-starfruit-cake.png",
+      "alt": {
+        "en": "Matcha starfruit cake dim sum.",
+        "yue": "抹茶starfruitcake點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha starfruit cake, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3720",
+    "slug": "hong-kong-matcha-chocolate-banana tart-3720",
+    "name": {
+      "en": "Hong Kong Matcha chocolate banana tart 3720",
+      "zhHant": "香港抹茶chocolatebanana tart3720"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-desserts",
+    "description": {
+      "en": "An invented matcha chocolate banana tart dim sum with visible chocolate.",
+      "yue": "創作抹茶chocolatebanana tart，清楚見到黑朱古力。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "chocolate",
+      "banana tart",
+      "dark chocolate"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "image": {
+      "path": "images/hk-dish-3720-matcha-chocolate-banana tart.png",
+      "alt": {
+        "en": "Matcha chocolate banana tart dim sum with visible chocolate.",
+        "yue": "抹茶chocolatebanana tart點心。"
+      }
+    },
+    "imagePrompt": "Photorealistic Hong Kong matcha chocolate banana tart with obvious dark chocolate, no text, no watermark."
+  }
+]

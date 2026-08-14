@@ -1,0 +1,965 @@
+[
+  {
+    "id": "hk-dish-3301",
+    "slug": "hong-kong-matcha-red-bean-bun",
+    "name": {
+      "en": "Hong Kong Matcha Red Bean Bun",
+      "zhHant": "香港抹茶紅豆包"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 hung4 dau6 baau1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-chilled-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Red Bean Bun is a Hong Kong tea-house dessert made with matcha and red.",
+      "yue": "香港抹茶紅豆包係茶樓甜點，用抹茶同紅豆包整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "red",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3301-hong-kong-matcha-red-bean-bun.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Red Bean Bun on a tea-house plate.",
+        "yue": "一件香港抹茶紅豆包，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Red Bean Bun with matcha and red, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3302",
+    "slug": "hong-kong-matcha-sesame-mochi",
+    "name": {
+      "en": "Hong Kong Matcha Sesame Mochi",
+      "zhHant": "香港抹茶芝麻麻糬"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 zi1 maa4 maa4 ci4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-steamed-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Sesame Mochi is a Hong Kong tea-house dessert made with matcha and sesame.",
+      "yue": "香港抹茶芝麻麻糬係茶樓甜點，用抹茶同芝麻麻糬整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "sesame",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3302-hong-kong-matcha-sesame-mochi.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Sesame Mochi on a tea-house plate.",
+        "yue": "一件香港抹茶芝麻麻糬，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Sesame Mochi with matcha and sesame, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3303",
+    "slug": "hong-kong-matcha-coconut-tart",
+    "name": {
+      "en": "Hong Kong Matcha Coconut Tart",
+      "zhHant": "香港抹茶椰香撻"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 je4 hoeng1 taat3",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-baked-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Coconut Tart is a Hong Kong tea-house dessert made with matcha and coconut.",
+      "yue": "香港抹茶椰香撻係茶樓甜點，用抹茶同椰香撻整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "coconut",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3303-hong-kong-matcha-coconut-tart.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Coconut Tart on a tea-house plate.",
+        "yue": "一件香港抹茶椰香撻，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Coconut Tart with matcha and coconut, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3304",
+    "slug": "hong-kong-matcha-mango-jelly",
+    "name": {
+      "en": "Hong Kong Matcha Mango Jelly",
+      "zhHant": "香港抹茶芒果啫喱"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 mong1 gwo2 ze1 lei4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-chilled-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Mango Jelly is a Hong Kong tea-house dessert made with matcha and mango.",
+      "yue": "香港抹茶芒果啫喱係茶樓甜點，用抹茶同芒果啫喱整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "mango",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3304-hong-kong-matcha-mango-jelly.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Mango Jelly on a tea-house plate.",
+        "yue": "一件香港抹茶芒果啫喱，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Mango Jelly with matcha and mango, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3305",
+    "slug": "hong-kong-matcha-pineapple-cake",
+    "name": {
+      "en": "Hong Kong Matcha Pineapple Cake",
+      "zhHant": "香港抹茶菠蘿糕"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 bo1 lo4 gou1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-steamed-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Pineapple Cake is a Hong Kong tea-house dessert made with matcha and pineapple.",
+      "yue": "香港抹茶菠蘿糕係茶樓甜點，用抹茶同菠蘿糕整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "pineapple",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3305-hong-kong-matcha-pineapple-cake.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Pineapple Cake on a tea-house plate.",
+        "yue": "一件香港抹茶菠蘿糕，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Pineapple Cake with matcha and pineapple, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3306",
+    "slug": "hong-kong-matcha-lotus-pudding",
+    "name": {
+      "en": "Hong Kong Matcha Lotus Pudding",
+      "zhHant": "香港抹茶蓮蓉布甸"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 lin4 jung4 bou3 din1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-baked-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Lotus Pudding is a Hong Kong tea-house dessert made with matcha and lotus.",
+      "yue": "香港抹茶蓮蓉布甸係茶樓甜點，用抹茶同蓮蓉布甸整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "lotus",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3306-hong-kong-matcha-lotus-pudding.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Lotus Pudding on a tea-house plate.",
+        "yue": "一件香港抹茶蓮蓉布甸，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Lotus Pudding with matcha and lotus, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3307",
+    "slug": "hong-kong-matcha-taro-roll",
+    "name": {
+      "en": "Hong Kong Matcha Taro Roll",
+      "zhHant": "香港抹茶芋頭卷"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 wu6 tau4 gyun2",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-chilled-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Taro Roll is a Hong Kong tea-house dessert made with matcha and taro.",
+      "yue": "香港抹茶芋頭卷係茶樓甜點，用抹茶同芋頭卷整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "taro",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3307-hong-kong-matcha-taro-roll.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Taro Roll on a tea-house plate.",
+        "yue": "一件香港抹茶芋頭卷，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Taro Roll with matcha and taro, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3308",
+    "slug": "hong-kong-matcha-walnut-steamed-cake",
+    "name": {
+      "en": "Hong Kong Matcha Walnut Steamed Cake",
+      "zhHant": "香港抹茶合桃蒸糕"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 hap6 tou4 gou1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-steamed-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Walnut Steamed Cake is a Hong Kong tea-house dessert made with matcha and walnut.",
+      "yue": "香港抹茶合桃蒸糕係茶樓甜點，用抹茶同合桃整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "walnut",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3308-hong-kong-matcha-walnut-steamed-cake.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Walnut Steamed Cake on a tea-house plate.",
+        "yue": "一件香港抹茶合桃蒸糕，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Walnut Steamed Cake with matcha and walnut, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3309",
+    "slug": "hong-kong-matcha-pear-pastry",
+    "name": {
+      "en": "Hong Kong Matcha Pear Pastry",
+      "zhHant": "香港抹茶雪梨酥"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 syut3 lei4 sou1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-baked-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Pear Pastry is a Hong Kong tea-house dessert made with matcha and pear.",
+      "yue": "香港抹茶雪梨酥係茶樓甜點，用抹茶同雪梨酥整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "pear",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3309-hong-kong-matcha-pear-pastry.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Pear Pastry on a tea-house plate.",
+        "yue": "一件香港抹茶雪梨酥，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Pear Pastry with matcha and pear, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3310",
+    "slug": "hong-kong-matcha-custard-puff",
+    "name": {
+      "en": "Hong Kong Matcha Custard Puff",
+      "zhHant": "香港抹茶奶黃酥"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 naai5 wong4 sou1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-chilled-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Custard Puff is a Hong Kong tea-house dessert made with matcha and custard.",
+      "yue": "香港抹茶奶黃酥係茶樓甜點，用抹茶同奶黃酥整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "custard",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3310-hong-kong-matcha-custard-puff.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Custard Puff on a tea-house plate.",
+        "yue": "一件香港抹茶奶黃酥，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Custard Puff with matcha and custard, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3311",
+    "slug": "hong-kong-matcha-date-pastry",
+    "name": {
+      "en": "Hong Kong Matcha Date Pastry",
+      "zhHant": "香港抹茶棗蓉酥"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 zou2 jung4 sou1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-steamed-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Date Pastry is a Hong Kong tea-house dessert made with matcha and date.",
+      "yue": "香港抹茶棗蓉酥係茶樓甜點，用抹茶同棗蓉酥整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "date",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3311-hong-kong-matcha-date-pastry.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Date Pastry on a tea-house plate.",
+        "yue": "一件香港抹茶棗蓉酥，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Date Pastry with matcha and date, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3312",
+    "slug": "hong-kong-matcha-sweet-potato-cake",
+    "name": {
+      "en": "Hong Kong Matcha Sweet Potato Cake",
+      "zhHant": "香港抹茶番薯糕"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 faan1 syu4 gou1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-baked-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Sweet Potato Cake is a Hong Kong tea-house dessert made with matcha and sweet.",
+      "yue": "香港抹茶番薯糕係茶樓甜點，用抹茶同番薯糕整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "sweet",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3312-hong-kong-matcha-sweet-potato-cake.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Sweet Potato Cake on a tea-house plate.",
+        "yue": "一件香港抹茶番薯糕，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Sweet Potato Cake with matcha and sweet, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3313",
+    "slug": "hong-kong-matcha-honey-puff",
+    "name": {
+      "en": "Hong Kong Matcha Honey Puff",
+      "zhHant": "香港抹茶蜜糖酥"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 mat6 tong4 sou1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-chilled-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Honey Puff is a Hong Kong tea-house dessert made with matcha and honey.",
+      "yue": "香港抹茶蜜糖酥係茶樓甜點，用抹茶同蜜糖酥整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "honey",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3313-hong-kong-matcha-honey-puff.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Honey Puff on a tea-house plate.",
+        "yue": "一件香港抹茶蜜糖酥，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Honey Puff with matcha and honey, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3314",
+    "slug": "hong-kong-matcha-guava-jelly",
+    "name": {
+      "en": "Hong Kong Matcha Guava Jelly",
+      "zhHant": "香港抹茶番石榴啫喱"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 faan1 sek6 lau4 ze1 lei4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-steamed-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Guava Jelly is a Hong Kong tea-house dessert made with matcha and guava.",
+      "yue": "香港抹茶番石榴啫喱係茶樓甜點，用抹茶同番石榴啫喱整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "guava",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3314-hong-kong-matcha-guava-jelly.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Guava Jelly on a tea-house plate.",
+        "yue": "一件香港抹茶番石榴啫喱，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Guava Jelly with matcha and guava, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3315",
+    "slug": "hong-kong-matcha-fig-mochi",
+    "name": {
+      "en": "Hong Kong Matcha Fig Mochi",
+      "zhHant": "香港抹茶無花果麻糬"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 mou4 faa1 gwo2 maa4 ci4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-baked-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Fig Mochi is a Hong Kong tea-house dessert made with matcha and fig.",
+      "yue": "香港抹茶無花果麻糬係茶樓甜點，用抹茶同無花果麻糬整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "fig",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3315-hong-kong-matcha-fig-mochi.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Fig Mochi on a tea-house plate.",
+        "yue": "一件香港抹茶無花果麻糬，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Fig Mochi with matcha and fig, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3316",
+    "slug": "hong-kong-matcha-sorghum-cake",
+    "name": {
+      "en": "Hong Kong Matcha Sorghum Cake",
+      "zhHant": "香港抹茶高粱糕"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 gou1 loeng4 gou1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-chilled-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Sorghum Cake is a Hong Kong tea-house dessert made with matcha and sorghum.",
+      "yue": "香港抹茶高粱糕係茶樓甜點，用抹茶同高粱糕整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "sorghum",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3316-hong-kong-matcha-sorghum-cake.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Sorghum Cake on a tea-house plate.",
+        "yue": "一件香港抹茶高粱糕，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Sorghum Cake with matcha and sorghum, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3317",
+    "slug": "hong-kong-matcha-plum-tart",
+    "name": {
+      "en": "Hong Kong Matcha Plum Tart",
+      "zhHant": "香港抹茶梅子撻"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 mui4 zi2 taat3",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-steamed-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Plum Tart is a Hong Kong tea-house dessert made with matcha and plum.",
+      "yue": "香港抹茶梅子撻係茶樓甜點，用抹茶同梅子撻整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "plum",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3317-hong-kong-matcha-plum-tart.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Plum Tart on a tea-house plate.",
+        "yue": "一件香港抹茶梅子撻，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Plum Tart with matcha and plum, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3318",
+    "slug": "hong-kong-matcha-sago-cup",
+    "name": {
+      "en": "Hong Kong Matcha Sago Cup",
+      "zhHant": "香港抹茶西米杯"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 sai1 mai5 bui1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-baked-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Sago Cup is a Hong Kong tea-house dessert made with matcha and sago.",
+      "yue": "香港抹茶西米杯係茶樓甜點，用抹茶同西米杯整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "sago",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3318-hong-kong-matcha-sago-cup.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Sago Cup on a tea-house plate.",
+        "yue": "一件香港抹茶西米杯，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Sago Cup with matcha and sago, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3319",
+    "slug": "hong-kong-matcha-sunflower-cookie",
+    "name": {
+      "en": "Hong Kong Matcha Sunflower Cookie",
+      "zhHant": "香港抹茶葵花籽曲奇"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 kwai4 faa1 zi2 kuk1 kei4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-chilled-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Sunflower Cookie is a Hong Kong tea-house dessert made with matcha and sunflower.",
+      "yue": "香港抹茶葵花籽曲奇係茶樓甜點，用抹茶同葵花籽曲奇整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "sunflower",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3319-hong-kong-matcha-sunflower-cookie.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Sunflower Cookie on a tea-house plate.",
+        "yue": "一件香港抹茶葵花籽曲奇，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Sunflower Cookie with matcha and sunflower, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3320",
+    "slug": "hong-kong-matcha-dark-chocolate-custard-bun",
+    "name": {
+      "en": "Hong Kong Matcha Dark Chocolate Custard Bun",
+      "zhHant": "香港抹茶黑朱古力奶黃包"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 hak1 zyu1 gu2 lik1 naai5 wong4 baau1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-chocolate-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Dark Chocolate Custard Bun is a Hong Kong tea-house dessert made with matcha and dark chocolate custard.",
+      "yue": "香港抹茶黑朱古力奶黃包係茶樓甜點，用抹茶同黑朱古力奶黃餡整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "dark chocolate",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "image": {
+      "path": "images/hk-dish-3320-hong-kong-matcha-dark-chocolate-custard-bun.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Dark Chocolate Custard Bun on a tea-house plate.",
+        "yue": "一件香港抹茶黑朱古力奶黃包，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Dark Chocolate Custard Bun with matcha and dark chocolate custard filling, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark.",
+    "chocolateFilled": true
+  },
+  {
+    "id": "hk-dish-3321",
+    "slug": "hong-kong-matcha-chestnut-pudding",
+    "name": {
+      "en": "Hong Kong Matcha Chestnut Pudding",
+      "zhHant": "香港抹茶栗子布甸"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 laat6 zi2 bou3 din1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-baked-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Chestnut Pudding is a Hong Kong tea-house dessert made with matcha and chestnut.",
+      "yue": "香港抹茶栗子布甸係茶樓甜點，用抹茶同栗子布甸整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "chestnut",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3321-hong-kong-matcha-chestnut-pudding.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Chestnut Pudding on a tea-house plate.",
+        "yue": "一件香港抹茶栗子布甸，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Chestnut Pudding with matcha and chestnut, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3322",
+    "slug": "hong-kong-matcha-banana-roll",
+    "name": {
+      "en": "Hong Kong Matcha Banana Roll",
+      "zhHant": "香港抹茶香蕉卷"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 hoeng1 ziu1 gyun2",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-chilled-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Banana Roll is a Hong Kong tea-house dessert made with matcha and banana.",
+      "yue": "香港抹茶香蕉卷係茶樓甜點，用抹茶同香蕉卷整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "banana",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3322-hong-kong-matcha-banana-roll.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Banana Roll on a tea-house plate.",
+        "yue": "一件香港抹茶香蕉卷，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Banana Roll with matcha and banana, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3323",
+    "slug": "hong-kong-matcha-lime-jelly",
+    "name": {
+      "en": "Hong Kong Matcha Lime Jelly",
+      "zhHant": "香港抹茶青檸啫喱"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 ceng1 ling4 ze1 lei4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-steamed-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Lime Jelly is a Hong Kong tea-house dessert made with matcha and lime.",
+      "yue": "香港抹茶青檸啫喱係茶樓甜點，用抹茶同青檸啫喱整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "lime",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3323-hong-kong-matcha-lime-jelly.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Lime Jelly on a tea-house plate.",
+        "yue": "一件香港抹茶青檸啫喱，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Lime Jelly with matcha and lime, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3324",
+    "slug": "hong-kong-matcha-barley-cake",
+    "name": {
+      "en": "Hong Kong Matcha Barley Cake",
+      "zhHant": "香港抹茶薏米糕"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 ji3 mai5 gou1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-baked-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Barley Cake is a Hong Kong tea-house dessert made with matcha and barley.",
+      "yue": "香港抹茶薏米糕係茶樓甜點，用抹茶同薏米糕整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "barley",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3324-hong-kong-matcha-barley-cake.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Barley Cake on a tea-house plate.",
+        "yue": "一件香港抹茶薏米糕，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Barley Cake with matcha and barley, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3325",
+    "slug": "hong-kong-matcha-fig-tart",
+    "name": {
+      "en": "Hong Kong Matcha Fig Tart",
+      "zhHant": "香港抹茶無花果撻"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 mou4 faa1 gwo2 taat3",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-chilled-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Fig Tart is a Hong Kong tea-house dessert made with matcha and fig.",
+      "yue": "香港抹茶無花果撻係茶樓甜點，用抹茶同無花果撻整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "fig",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3325-hong-kong-matcha-fig-tart.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Fig Tart on a tea-house plate.",
+        "yue": "一件香港抹茶無花果撻，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Fig Tart with matcha and fig, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3326",
+    "slug": "hong-kong-matcha-black-rice-mochi",
+    "name": {
+      "en": "Hong Kong Matcha Black Rice Mochi",
+      "zhHant": "香港抹茶黑米麻糬"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 hak1 mai5 maa4 ci4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-steamed-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Black Rice Mochi is a Hong Kong tea-house dessert made with matcha and black.",
+      "yue": "香港抹茶黑米麻糬係茶樓甜點，用抹茶同黑米麻糬整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "black",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3326-hong-kong-matcha-black-rice-mochi.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Black Rice Mochi on a tea-house plate.",
+        "yue": "一件香港抹茶黑米麻糬，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Black Rice Mochi with matcha and black, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3327",
+    "slug": "hong-kong-matcha-passionfruit-pudding",
+    "name": {
+      "en": "Hong Kong Matcha Passionfruit Pudding",
+      "zhHant": "香港抹茶熱情果布甸"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 jit6 cing4 gwo2 bou3 din1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-baked-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Passionfruit Pudding is a Hong Kong tea-house dessert made with matcha and passionfruit.",
+      "yue": "香港抹茶熱情果布甸係茶樓甜點，用抹茶同熱情果布甸整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "passionfruit",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3327-hong-kong-matcha-passionfruit-pudding.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Passionfruit Pudding on a tea-house plate.",
+        "yue": "一件香港抹茶熱情果布甸，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Passionfruit Pudding with matcha and passionfruit, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3328",
+    "slug": "hong-kong-matcha-sesame-roll",
+    "name": {
+      "en": "Hong Kong Matcha Sesame Roll",
+      "zhHant": "香港抹茶芝麻卷"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 zi1 maa4 gyun2",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-chilled-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Sesame Roll is a Hong Kong tea-house dessert made with matcha and sesame.",
+      "yue": "香港抹茶芝麻卷係茶樓甜點，用抹茶同芝麻卷整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "sesame",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3328-hong-kong-matcha-sesame-roll.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Sesame Roll on a tea-house plate.",
+        "yue": "一件香港抹茶芝麻卷，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Sesame Roll with matcha and sesame, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3329",
+    "slug": "hong-kong-matcha-apricot-pastry",
+    "name": {
+      "en": "Hong Kong Matcha Apricot Pastry",
+      "zhHant": "香港抹茶杏脯酥"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 hang6 pou2 sou1",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-steamed-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Apricot Pastry is a Hong Kong tea-house dessert made with matcha and apricot.",
+      "yue": "香港抹茶杏脯酥係茶樓甜點，用抹茶同杏脯酥整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "apricot",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3329-hong-kong-matcha-apricot-pastry.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Apricot Pastry on a tea-house plate.",
+        "yue": "一件香港抹茶杏脯酥，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Apricot Pastry with matcha and apricot, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  },
+  {
+    "id": "hk-dish-3330",
+    "slug": "hong-kong-matcha-coconut-mochi",
+    "name": {
+      "en": "Hong Kong Matcha Coconut Mochi",
+      "zhHant": "香港抹茶椰香麻糬"
+    },
+    "jyutping": "hoeng1 gong2 mut3 caa4 je4 hoeng1 maa4 ci4",
+    "category": "hong-kong-desserts",
+    "subcategory": "matcha-baked-desserts",
+    "description": {
+      "en": "Hong Kong Matcha Coconut Mochi is a Hong Kong tea-house dessert made with matcha and coconut.",
+      "yue": "香港抹茶椰香麻糬係茶樓甜點，用抹茶同椰香麻糬整成，香甜好食。"
+    },
+    "ingredients": [
+      "matcha powder",
+      "coconut",
+      "rice flour"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "allergens": [],
+    "image": {
+      "path": "images/hk-dish-3330-hong-kong-matcha-coconut-mochi.png",
+      "alt": {
+        "en": "One Hong Kong Matcha Coconut Mochi on a tea-house plate.",
+        "yue": "一件香港抹茶椰香麻糬，用茶樓碟上枱。"
+      }
+    },
+    "imagePrompt": "Photorealistic square food photograph of one Hong Kong Matcha Coconut Mochi with matcha and coconut, warm Hong Kong tea-house tableware, natural light, full serving visible, no people, no text, no watermark."
+  }
+]
