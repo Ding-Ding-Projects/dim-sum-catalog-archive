@@ -1,6 +1,6 @@
 # Dim sum catalog archive
 
-Private archive of the Hong Kong dim sum and dish catalog (bilingual English / Traditional
+Public archive of the Hong Kong dim sum and dish catalog (bilingual English / Traditional
 Chinese, target 4,000 records), moved out of the `agent-global-memory` repository to stop that
 repository from carrying roughly 8.7 GB of tracked PNGs.
 
@@ -51,7 +51,7 @@ active development surface.
 
 The canonical **public** dim-sum catalog remains
 [`Ding-Ding-Projects/dim-sum-photos`](https://github.com/Ding-Ding-Projects/dim-sum-photos). This
-repository is a separate, private archive and does not replace or supersede that one.
+repository is a separate archive and does not replace or supersede that one.
 
 ## Verification
 
