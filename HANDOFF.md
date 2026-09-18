@@ -13,6 +13,7 @@ was performed.
 - Default branch: `main`
 - Starting commit: `37ae6b35010f564188726adda3600526fd19e070`
 - Starting `origin/main`: `37ae6b35010f564188726adda3600526fd19e070`
+- Preservation commit: `85264492e50a8aaa9379e8dff0d9421523691ddd`
 - Working tree at inventory: clean
 - Linked worktrees at inventory: none
 - Local branches at inventory: `main` only
@@ -39,8 +40,12 @@ preserve. Both local and fetched default-branch tips were identical before editi
 - Fetch: completed with `git fetch --all --prune`.
 - JSON syntax: validate `index.json`, `image-manifest.json`, `schema.json`, all files under
   `catalog-parts/`, and `manifest/archive-manifest.json` with a JSON parser.
-- Archive evidence: record the external archive path, byte size, entry count, and read-back
-  verification here before any removal pass.
+- Archive evidence: verified before any removal pass at
+  `C:\Users\cntow\OneDrive\OakKayBackups\dim-sum-catalog-archive\zips\dim-sum-catalog-archive-20260918T020000Z.7z`.
+  The archive is 18,023,354,492 bytes and contains 22 folders plus 4,095 files. `7z t`
+  completed with `Everything is Ok`; the listing reports 18,216,316,010 uncompressed bytes
+  and 18,023,354,492 compressed bytes. The archive includes the full `.git` directory and
+  the tracked and non-ignored source set present at preservation commit `8526449`.
 - Remote ref evidence: verify `refs/heads/main` with `git ls-remote` after the final push.
 
 ## Retained items and exclusions
